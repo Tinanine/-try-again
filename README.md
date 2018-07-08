@@ -11,7 +11,7 @@
 
 加图片操作
 操作一 把图片加到仓库里，再将图片链接加在这里
-https://github.com/Tinanine/-try-again/blob/master/20160118-7.jpg
+![](https://github.com/Tinanine/-try-again/blob/master/20160118-7.jpg)
 
 
 
