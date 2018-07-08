@@ -1,4 +1,3 @@
-
 # test    
 ## section1  （井号表示标题）
 ## section2
@@ -11,8 +10,8 @@
 换行：句尾两个空格/或者中间隔一行强制换行
 
 加图片操作
-操作一 把图片加到仓库里
-
+操作一 把图片加到仓库里，再将图片链接加在这里
+https://github.com/Tinanine/-try-again/blob/master/20160118-7.jpg
 
 
 
